@@ -1,0 +1,2 @@
+# Ninja
+JavaScript Ninja
