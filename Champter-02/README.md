@@ -1,4 +1,4 @@
-#### Champter-02 测试框架构建
+#### Champter-02 测试框架
 ###### 1. 断言
 HTML:
 ```html
