@@ -1,1 +1,1 @@
-#### Hello World!
+#### Welcome to the Ninja World! Enjoy yourself~~~
