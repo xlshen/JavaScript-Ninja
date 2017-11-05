@@ -145,7 +145,7 @@ ECMAScript 5在严格模式下已经禁止使用
 ```
 ###### 函数重载
 函数的length属性：  
-> 通过lenght属性，可以知道声明了多少命名参数  
+> 通过length属性，可以知道声明了多少命名参数  
 > 通过arguments.length可以知道调用时传入了多少参数
 
 函数重载方法移步：[函数重载](https://github.com/xlshen/blog/blob/master/JavaScript函数重载（JavaScript%20Method%20Overloading）.md)

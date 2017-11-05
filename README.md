@@ -1,2 +1,2 @@
 # Ninja
-JavaScript Ninja book notes.
+JavaScript Ninja Book Notes.
