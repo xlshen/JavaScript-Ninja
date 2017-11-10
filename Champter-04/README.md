@@ -1,5 +1,5 @@
-#### Champter-04 函数
-###### 递归
+### Champter-04 函数
+#### 递归
 > 实现递归的两个条件：
 > 1. 引用自身
 > 2. 有终止条件
@@ -63,7 +63,7 @@ ECMAScript 5在严格模式下已经禁止使用
   };
 ```
 
-###### 将函数视为对象
+#### 将函数视为对象
 1. 函数赋值给变量
 ```js
   var fn = function(){};
@@ -143,7 +143,9 @@ ECMAScript 5在严格模式下已经禁止使用
   elems.gather("second");
   assert(elems.length == 2 && elems[1].nodeType, "Add another one");
 ```
-###### 函数重载
+
+#### 函数重载
+
 函数的length属性：  
 > 通过length属性，可以知道声明了多少命名参数  
 > 通过arguments.length可以知道调用时传入了多少参数

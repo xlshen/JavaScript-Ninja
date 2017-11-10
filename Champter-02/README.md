@@ -1,5 +1,5 @@
-#### Champter-02 测试框架
-###### 1. 断言
+### Champter-02 测试框架
+#### 1. 断言
 HTML:
 ```html
   <!DOCTYPE html>
@@ -44,7 +44,7 @@ JavaScript:
       assert(false, "Fail!");
     }
 ```
-##### 2. 测试组
+#### 2. 测试组
 ```html
 <!DOCTYPE html>
 <html>
@@ -100,7 +100,7 @@ window.onload = function() {
 </body>
 </html>
 ```
-##### 3. 异步测试
+#### 3. 异步测试
 > 1. 将依赖的相同异步操作的断言组合成一个统一的测试组
 > 2. 每个测试组需要放在一个队列上，在先前其他的测试组完成执行之后再执行
 
